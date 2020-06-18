@@ -1,3 +1,17 @@
+![add](https://user-images.githubusercontent.com/44475035/84964566-1ef4a300-b115-11ea-9d28-96e7446b8944.PNG)
+
+We can see the design of the survey registration screen here. But this screen is not working now.
+
+![survey_List](https://user-images.githubusercontent.com/44475035/84964665-59f6d680-b115-11ea-8420-8877b15c8a21.PNG)
+
+We can see all survey records on this screen.
+
+![topic_table](https://user-images.githubusercontent.com/44475035/84964815-c96cc600-b115-11ea-964f-6fa112de6525.PNG)
+
+we can access all topics and the npm score of the topics.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
